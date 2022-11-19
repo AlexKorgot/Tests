@@ -34,5 +34,7 @@
     "production": "webpack --config configuration/webpack.prod.config.js --mode=production"
   },
   "target": "web",
-  "dependencies": {}
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
